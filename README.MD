@@ -47,6 +47,7 @@ The Modal component accepts the following props:
 ## Exemple Usage
 
 1.Set the open prop to true to display the modal.
+
 2.Provide the desired content within the children prop (e.g., text, buttons, forms).
 
 ```bash
